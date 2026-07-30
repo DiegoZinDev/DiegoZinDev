@@ -42,16 +42,12 @@ Utilizo ferramentas de inteligência artificial como apoio ao aprendizado, à pe
 
 ## Como eu trabalho em ambiente profissional
 
-- **Resolução de problemas:** procuro dividir problemas maiores em etapas menores e testáveis para compreender melhor o obstáculo e chegar em um resultado lógico de solução mais eficiente póssivel.
-- **Colaboração:** já participei de projetos acadêmicos(SENAC e Uniceplac) utilizando Git para integrar contribuições de diferentes integrantes.
-- **Aprendizado contínuo:** documento conceitos e decisões técnicas enquanto desenvolvo meus projetos para manter uma linha de desenvolvimento mais organizada.
-- **Organização:** utilizo branches, commits descritivos e acompanhamento de tarefas para manter o desenvolvimento rastreável e manter a integridade dos projetos por meio do versionamento de código.
-
+- **Resolução de problemas:** procuro dividir problemas maiores em etapas menores e testáveis, facilitando a compreensão do obstáculo e a construção de uma solução eficiente.
+- **Colaboração:** já participei de projetos acadêmicos no SENAC e na UNICEPLAC, utilizando Git para integrar contribuições de diferentes integrantes.
+- **Aprendizado contínuo:** documento conceitos e decisões técnicas durante o desenvolvimento dos projetos, mantendo uma linha de evolução organizada.
+- **Organização:** utilizo branches, commits descritivos e acompanhamento de tarefas para manter o desenvolvimento rastreável e preservar a integridade do código.
+  
 ## Objetivo profissional
 
-Busco uma oportunidade de estágio em desenvolvimento backend na qual eu possa contribuir, aprender com profissionais experientes e evoluir na construção de sistemas bem organizados, testáveis, de fácil manutenção e alta escalabilidade.
+Busco uma oportunidade de estágio em desenvolvimento backend na qual eu possa contribuir, aprender com profissionais experientes e evoluir na construção de sistemas bem organizados, testáveis e de fácil manutenção.
 
-## Contato
-
-* Telefone: 61985451105
-* Localização: Distrito Federal e região
