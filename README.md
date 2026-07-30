@@ -16,9 +16,9 @@ Atualmente, estou consolidando meus conhecimentos em orientação a objetos, est
 * HTML e CSS
 * Python
 
-**Em desenvolvimento**
+**Em aperfeiçoamento**
 
-* Programação orientada a objetos
+* POO
 * Spring Boot
 * APIs REST
 * JPA e Hibernate
@@ -34,11 +34,18 @@ API para gerenciamento de estoque, usuários e movimentações, construída para
 
 ### Java OOP Lab — em desenvolvimento
 
-Coleção de implementações práticas sobre encapsulamento, composição, herança, polimorfismo, interfaces e tratamento de exceções.
+Coleção de implementações e atividades práticas sobre encapsulamento, composição, herança, polimorfismo, interfaces e tratamento de exceções com objetivo de incrementar e lapidar minhas habilidades em Java.
 
-## Experiência em equipe
+## Automação de tarefas com IA e Scripts
 
-Participei do desenvolvimento de projetos acadêmicos colaborativos, contribuindo com funcionalidades de autenticação, recuperação de senha e integração para envio de e-mails.
+Prática de automatizar atividades repetitivas ou acelerar projetos projetos com o uso responsável da Inteligência Artificial de forma inicial ainda, usando apenas para procurar soluções técnicas de forma mais rápida e eficiente aumentando assim o aprendizado na área técnica.
+
+## Como eu trabalho em ambiente profissional
+
+- **Resolução de problemas:** procuro dividir problemas maiores em etapas menores e testáveis.
+- **Colaboração:** já participei de projetos acadêmicos utilizando Git para integrar contribuições de diferentes integrantes.
+- **Aprendizado contínuo:** documento conceitos e decisões técnicas enquanto desenvolvo meus projetos.
+- **Organização:** utilizo branches, commits descritivos e acompanhamento de tarefas para manter o desenvolvimento rastreável.
 
 ## Objetivo profissional
 
