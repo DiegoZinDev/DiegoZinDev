@@ -14,11 +14,11 @@ Atualmente, estou consolidando meus conhecimentos em orientação a objetos, est
 * Git e GitHub
 * Maven
 * HTML e CSS
-* Python
+* Automações com Python
 
 **Em aperfeiçoamento**
 
-* POO
+* Programação Orientada a Objetos
 * Spring Boot
 * APIs REST
 * JPA e Hibernate
@@ -28,11 +28,11 @@ Atualmente, estou consolidando meus conhecimentos em orientação a objetos, est
 
 ## Projetos em destaque
 
-### Inventory Management API — em desenvolvimento
+### Inventory Management API 
 
 API para gerenciamento de estoque, usuários e movimentações, construída para aplicar Java, Spring Boot, MySQL, testes automatizados e documentação de APIs.
 
-### Java OOP Lab — em desenvolvimento
+### Java OOP Lab 
 
 Coleção de implementações e atividades práticas sobre encapsulamento, composição, herança, polimorfismo, interfaces e tratamento de exceções com objetivo de incrementar e lapidar minhas habilidades em Java.
 
@@ -42,16 +42,16 @@ Utilizo ferramentas de inteligência artificial como apoio ao aprendizado, à pe
 
 ## Como eu trabalho em ambiente profissional
 
-- **Resolução de problemas:** procuro dividir problemas maiores em etapas menores e testáveis.
-- **Colaboração:** já participei de projetos acadêmicos utilizando Git para integrar contribuições de diferentes integrantes.
-- **Aprendizado contínuo:** documento conceitos e decisões técnicas enquanto desenvolvo meus projetos.
-- **Organização:** utilizo branches, commits descritivos e acompanhamento de tarefas para manter o desenvolvimento rastreável.
+- **Resolução de problemas:** procuro dividir problemas maiores em etapas menores e testáveis para compreender melhor o obstáculo e chegar em um resultado lógico de solução mais eficiente póssivel.
+- **Colaboração:** já participei de projetos acadêmicos(SENAC e Uniceplac) utilizando Git para integrar contribuições de diferentes integrantes.
+- **Aprendizado contínuo:** documento conceitos e decisões técnicas enquanto desenvolvo meus projetos para manter uma linha de desenvolvimento mais organizada.
+- **Organização:** utilizo branches, commits descritivos e acompanhamento de tarefas para manter o desenvolvimento rastreável e manter a integridade dos projetos por meio do versionamento de código.
 
 ## Objetivo profissional
 
-Busco uma oportunidade de estágio em desenvolvimento backend na qual eu possa contribuir, aprender com profissionais experientes e evoluir na construção de sistemas bem organizados, testáveis e de fácil manutenção.
+Busco uma oportunidade de estágio em desenvolvimento backend na qual eu possa contribuir, aprender com profissionais experientes e evoluir na construção de sistemas bem organizados, testáveis, de fácil manutenção e alta escalabilidade.
 
 ## Contato
 
-* LinkedIn: em atualização
+* Telefone: 61985451105
 * Localização: Distrito Federal e região
