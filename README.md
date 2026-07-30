@@ -36,9 +36,9 @@ API para gerenciamento de estoque, usuários e movimentações, construída para
 
 Coleção de implementações e atividades práticas sobre encapsulamento, composição, herança, polimorfismo, interfaces e tratamento de exceções com objetivo de incrementar e lapidar minhas habilidades em Java.
 
-## Automação de tarefas com IA e Scripts
+## IA aplicada ao desenvolvimento
 
-Prática de automatizar atividades repetitivas ou acelerar projetos projetos com o uso responsável da Inteligência Artificial de forma inicial ainda, usando apenas para procurar soluções técnicas de forma mais rápida e eficiente aumentando assim o aprendizado na área técnica.
+Utilizo ferramentas de inteligência artificial como apoio ao aprendizado, à pesquisa técnica e à automação de tarefas repetitivas. Procuro compreender, validar e testar as soluções sugeridas antes de incorporá-las aos meus projetos. Além de possuir experiência em automação de tarefas com Scripts em Python e também usando a IA para automatizar tarefas mais complexas porém que continuam sendo repetitivas.
 
 ## Como eu trabalho em ambiente profissional
 
