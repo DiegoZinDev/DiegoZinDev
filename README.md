@@ -1,6 +1,7 @@
-<div align="center">
-  <!-- Banner Pixel Art -->
-  <img src="https://64.media.tumblr.com/11e3b0805178619bc9520147fc32c1c6/tumblr_n0y1v8z2Gv1rl19e0o1_500.gif" alt="Mount Fuji Pixel Art Banner" width="100%" />
+
+<div align="center" background =>
+  <!-- Banner Pixel Art hospedado localmente -->
+  <img src="moutains.gif" alt="Mount Fuji Pixel Art Banner" width = "85%"/>
 
   <!-- Título em Destaque -->
   <h1><b>🚀 Diego Dev</b></h1>
