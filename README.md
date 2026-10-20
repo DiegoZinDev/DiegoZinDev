@@ -51,16 +51,16 @@ Sou Bacharelando em Engenharia de Software e Técnico em Desenvolvimento de Sist
 
 ###  S.I.G.E.C (Sistema de Gestão SENAC)
 *Desenvolvedor Principal • Java, JavaFX, MySQL, Jakarta Email*
-Sistema de gestão acadêmica e de estoque desenvolvido para os cursos de Gastronomia do SENAC. Atuei na liderança do front-end Desktop, regras de negócio e controle de permissões (Gestor/Instrutor).
+Sistema de gestão acadêmica e de estoque desenvolvido para os cursos de Gastronomia do SENAC. Atuei na liderança do Desktop, atuando a frente no desenvolvimento dos protótipos e designs do sistema, além de desenvolver algumas das principais funcionalidades, como por exemplo, o sistema de cadastros de turma, instrutor e gestor (Gestor do Projeto).
 - **Destaque:** Implementação de um sistema seguro de recuperação de senha com tokens via SMTP e criptografia com BCrypt.
 
 ###  Automação Web e Captação de Leads
 *Projeto Pessoal • Python, Playwright, MySQL*
-Scripts de automação robustos que extraem perfis de negócios locais no Google Maps sem presença digital, estruturando os dados em banco MySQL para posterior integração via WhatsApp.
+Scripts de automação robustos que extraem perfis de negócios locais no Google Maps sem presença digital, estruturando os dados em banco em planinhas para exportação em PDF(futuramente em um banco de dados) para posterior integração via WhatsApp.
 
-###  Orquestração de IA Multi-agente
-*Projeto Pessoal • Antigravity CLI, YAML, IA*
-Criação de um fluxo de desenvolvimento de software automatizado usando múltiplos agentes de Inteligência Artificial (Front-end, Back-end, DBA, Revisor) instanciados via prompts otimizados.
+### Automação Web com Captação de Promoções e Posts Automaticos via Whatsapp
+*Projeto Pessoal • Pythom, Playwright e SQL*
+Criação de um fluxo de scripts para automação que buscam as melhores ofertas de perfume, criam o link de afiliado de acordo com a conta logada, adaptam as mensagens de gatilho de oferta de acordo com o produto atual a ser postado, e fazem o post automatico da oferta em grupos dentro de uma comunidade especifica do whatsapp .
 
 ---
 
